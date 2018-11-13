@@ -3,12 +3,27 @@ Git hub (Remote)
 Git (Local)
 _____________________
 
+===Common===
 
 git init ( for initialization )
 git status ( current status bata ta hy apki dir ka)
+
+===ADD===
 
 git add *.extension (having particular extension)
 git add file_name.extension (perticular file)
 git add . (any kind of file)
 
 git rm --cached file_name.extension ( remove any file from staging area / to unstage any file)
+
+===Commit===
+
+git commit ( commiting your code through VIM editor)
+git commit -m ( comminting your code with a message or tag)
+
+===ROLE BACK YOUR code===
+
+git reset --hard ___________ "123fvba32" (commit id) 
+
+
+===GIT Branch===
