@@ -1,0 +1,14 @@
+Git hub (Remote) 
+
+Git (Local)
+_____________________
+
+
+git init ( for initialization )
+git status ( current status bata ta hy apki dir ka)
+
+git add *.extension (having particular extension)
+git add file_name.extension (perticular file)
+git add . (any kind of file)
+
+git rm --cached file_name.extension ( remove any file from staging area / to unstage any file)
