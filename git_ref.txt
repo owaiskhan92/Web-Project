@@ -27,3 +27,5 @@ git reset --hard ___________ "123fvba32" (commit id)
 
 
 ===GIT Branch===
+git branch (list all branches ) 
+git branch branch_name (add a new branch) 
